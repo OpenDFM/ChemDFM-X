@@ -12,7 +12,7 @@
 [ChemDFM-X](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4243-0) is a multimodal model for chemisty, supporting 5 modality files: molecule graph (2D), molecule comformer (3D), molecule picture, mass spectra (MS) and infrared spectrum (IR).
 Every modality data is encoded by a modality encoder.
 
-<img src="./ChemDFM-X.png" alt="ChemDFM-X introduction." width="600">
+<img src="./images/ChemDFM-X.png" alt="ChemDFM-X introduction." width="600">
 
 ## Getting Started
 1. Download ChemDFM-X model parameters from [HuggingFace](https://huggingface.co/OpenDFM/ChemDFM-X-v1.0-13B) or [ModelScope](https://modelscope.cn/models/OpenDFM/ChemDFM-X-v1.0-13B).
