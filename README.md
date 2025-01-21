@@ -30,12 +30,12 @@ The specital tokens for each modality is listed:
 
 
  | modality | modality token | file format | 
- |  :--- | :--- |
- | molecule Graph | [MM_FILE_G] | mol.sdf |
- | molecule Comformer | [MM_FILE_C] | mol.xyz |
- | molecule Image | [MM_FILE_I] | mol.png |
- | Mass spectra | [MM_FILE_M] | mol.csv |
- | infRaraed spectrum | [MM_FILE_R] | mol.mgf |
+ |  :--- | :--- | :--- |
+ | molecule **G**raph | [MM_FILE_G] | mol.sdf |
+ | molecule **C**omformer | [MM_FILE_C] | mol.xyz |
+ | molecule **I**mage | [MM_FILE_I] | mol.png |
+ | **M**ass spectra | [MM_FILE_M] | mol.csv |
+ | inf**R**araed spectrum | [MM_FILE_R] | mol.mgf |
 
  ## Example
 More examples will be updated later.
