@@ -34,8 +34,8 @@ The specital tokens for each modality is listed:
  | molecule **G**raph | [MM_FILE_G] | mol.sdf |
  | molecule **C**omformer | [MM_FILE_C] | mol.xyz |
  | molecule **I**mage | [MM_FILE_I] | mol.png |
- | **M**ass spectra | [MM_FILE_M] | mol.csv |
- | inf**R**araed spectrum | [MM_FILE_R] | mol.mgf |
+ | **M**ass spectra | [MM_FILE_M] | mol.mgf |
+ | inf**R**araed spectrum | [MM_FILE_R] | mol.csv |
 
  ## Example
 More examples will be updated later.
