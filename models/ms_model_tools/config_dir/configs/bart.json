@@ -1,0 +1,14 @@
+{
+    "vocab_size": 181,
+    "d_model": 512,
+    "encoder_layers": 6,
+    "decoder_layers": 6,
+    "encoder_attention_heads": 8,
+    "decoder_attention_heads": 8,
+    "decoder_ffn_dim": 2048,
+    "encoder_ffn_dim": 2048,
+    "activation_function": "gelu",
+    "dropout": 0.1,
+    "max_position_embeddings": 512,
+    "forced_eos_token_id": 2
+}

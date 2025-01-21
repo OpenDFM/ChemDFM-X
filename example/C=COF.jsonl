@@ -1,0 +1,1 @@
+{"instruction": "Would you please predict the SMILES notation that corresponds to the molecular figure?", "input": "[MM_FILE_I]", "mm_input_files": ["./example/C=COF.png"]}
