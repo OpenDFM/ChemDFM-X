@@ -19,6 +19,7 @@ Every modality data is encoded by a modality encoder: [MoleBERT](https://github.
 [HuggingFace](https://huggingface.co/OpenDFM/ChemDFM-X-v1.0-13B) &nbsp;
 [ModelScope](https://modelscope.cn/models/OpenDFM/ChemDFM-X-v1.0-13B)
 
+Overview:
 ![ChemDFM-X introduction](./images/ChemDFM-X.png)
 
 ## Getting Started
