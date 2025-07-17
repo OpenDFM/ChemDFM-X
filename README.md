@@ -14,7 +14,8 @@
 ChemDFM-X is a multimodal model for chemisty, supporting 5 modality files: molecule graph (2D), molecule comformer (3D), molecule picture, mass spectra (MS) and infrared spectrum (IR). 
 Every modality data is encoded by a modality encoder: [MoleBERT](https://github.com/junxia97/Mole-BERT), [Uni-Mol](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol), [CLIP](https://github.com/openai/CLIP), and the transformer encoders trained by ourself.  
   
-[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4243-0) &nbsp;
+[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4243-0)
+[(SI)](https://www.sciengine.com/cfs/files/files/fs/1902619324300918784) &nbsp;
 [GitHub](https://github.com/OpenDFM/ChemDFM-X) &nbsp;
 [HuggingFace](https://huggingface.co/OpenDFM/ChemDFM-X-v1.0-13B) &nbsp;
 [ModelScope](https://modelscope.cn/models/OpenDFM/ChemDFM-X-v1.0-13B)
